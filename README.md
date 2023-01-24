@@ -1,30 +1,20 @@
-# TSWD-portfolio-templates
-Portfolio templates for setting up your Telling Stories with Data site.  Edit these pages as you like for your own portfolio!  
-Sometimes it's helpful to keep track of your web URL.  Consider putting that somewhere on your page for easy reference: 
-
-- Web page URL: https://cmustudent.github.io/tswd-portfolio-templates/
-- This repository: https://github.com/cmustudent/tswd-portfolio-templates/
+# Linyue - Personal Website.
+Welcome to Linyue's personal website. You can find a lot of interesting works here.
 
 # Portfolio
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
 
 # About me
-Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
+Hi! My name is Linyue Luo. I'm currently a second year student from Master of Urban Design Program. I need good data visualizations when I work on a background research for my design work, and I'm also interested in it a lot. Hopefully you can find a lot of cool things here.
 
 # What I hope to learn
-All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
-
-1. List item #1
-2. List item #2
-3. List item #3
-
-or...
-
-- List item #1
-- List item #2
-- List item #3
+1. Create neat and beautiful charts;
+2. Use color systems professionally;
+3. Telling attractive stories for my design work.
 
 # Portfolio
+1. I'm currently working on a real estate competition. My teammates and I have already done a lot of design work. We plan to add some data visualization work to make our analysis solid;
+2. I'm about to start working on my thesis project about a refugee camp this semester. I need some data visualizations in my background analysis to make my project aim clear to audience.
 
 # Examples
 You can keep this section for stuff from in-class demos or your other work, or remove it. 
