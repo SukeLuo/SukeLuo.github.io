@@ -16,4 +16,9 @@ Hi! My name is Linyue Luo, and you can call me Suke(as Su-ki). I'm currently a s
 1. I'm currently working on a real estate competition. My teammates and I have already done a lot of design work. We plan to add some data visualization work to make our analysis solid;
 2. I'm about to start working on my thesis project about a refugee camp this semester. I need some data visualizations in my background analysis to make my project aim clear to audience.
 
-## Assignment 1 : Design Visualization Critique
+## Assignment 1: Design Visualization Critique
+
+## Assignment 3&4: [Critique by Design](critique-by-design)
+
+## Final project
+
