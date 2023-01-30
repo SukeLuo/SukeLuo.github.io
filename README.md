@@ -18,6 +18,9 @@ Hi! My name is Linyue Luo, and you can call me Suke(as Su-ki). I'm currently a s
 
 ## Assignment 1: Design Visualization Critique
 
+## Assignment 2 : Visualizing government debt
+[Visualizing government debt](/dataviz2.md)
+
 ## Assignment 3&4: [Critique by Design](critique-by-design)
 
 ## Final project
