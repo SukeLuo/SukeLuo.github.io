@@ -15,6 +15,6 @@ This is a time-based dot plot for more than 40 countries. The prupose of it is t
 <div class="flourish-embed flourish-scatter" data-src="visualisation/12598729"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 
-##Comparison of three data visualizations:
+## Comparison of three data visualizations:
 The first one:
 The third one: I planned to delete some rows and display only a few countries. But I was unsure if I was allowed to remove them.
