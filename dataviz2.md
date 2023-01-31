@@ -11,8 +11,10 @@ This is a line chart of Dept-to-GDP for different countries. On this graph you c
 
 
 ## Huge changes of Debt-to GDP ratio of different countries
-This is a time-based dot plot for more than 40 countries (I planned to delete some rows and display only a few countries. But I was unsure if I was allowed to remove them). The prupose of it is to show the instant ratio of specific year of all the countries, which can give audiences a sense of how each country performs on this function. Then they can make a rough comparison.
+This is a time-based dot plot for more than 40 countries. The prupose of it is to show the instant ratio of specific year of all the countries, which can give audiences a sense of how each country performs on this function. Then they can make a rough comparison.
 <div class="flourish-embed flourish-scatter" data-src="visualisation/12598729"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 
 ##Comparison of three data visualizations:
+The first one:
+The third one: I planned to delete some rows and display only a few countries. But I was unsure if I was allowed to remove them.
