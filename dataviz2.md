@@ -16,5 +16,6 @@ This is a time-based dot plot for more than 40 countries. The prupose of it is t
 
 
 ## Comparison of three data visualizations:
-The first one:
-The third one: I planned to delete some rows and display only a few countries. But I was unsure if I was allowed to remove them.
+The first one: An official bar graph including many sidebars which could be used to change time, variables, and display different countries. It is good for comparison during same time period. But it becomes messy when I tried to compare countries' ratio from longer time period.
+The second one: The clearest one for displaying ratio change trend of each country. But it is too hard to overlay lines in mind and make comparison in a specific year.
+The third one: I planned to delete some rows and display only a few countries. But I was unsure if I was allowed to remove them. So the current chart is not clean as I expected. This one is good for showing max and min ratio of countries, and also make comparisons. But it is hard to match the year with ratio if there is no animation (I'm still learning this tool). 
