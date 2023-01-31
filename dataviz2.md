@@ -1,4 +1,4 @@
-#Assignment 2: Visualizing government debt
+# Assignment 2: Visualizing government debt
 
 ## General government debt from OECD
 A bar graph embeded from OECD website which you can hover around bars and click bars for details. 
