@@ -20,6 +20,6 @@ The first one: An official bar graph including many sidebars which could be used
 
 The second one: The clearest one for displaying ratio change trend of each country. But it is too hard to overlay lines in mind and make comparison in a specific year.
 
-The third one: I planned to delete some rows and display only a few countries. But I was unsure if I was allowed to remove them. So the current chart is not clean as I expected. This one is good for showing max and min ratio of countries, and also make comparisons. But it is hard to match the year with ratio if there is no animation (I'm still learning flourish, and I will try to make this graph cleaner and nicer). 
+The third one: The reason I chose this type is that I couldn't compare countries' ratio from longer time period in any of other two graphs. I planned to delete some rows and display only a few countries. But I was unsure if I was allowed to remove them. So the current chart is not clean as I expected. This one is good for showing max and min ratio of countries, and also make comparisons. But it is hard to match the year with ratio if there is no animation (I'm still learning flourish, and I will try to make this graph cleaner and nicer). 
 
 Three visualizations have different functions. We can choose which to use based on our purpose and audiences.
