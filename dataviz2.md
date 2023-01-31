@@ -7,4 +7,5 @@ I created the sparkline for comparison.
 Time span is from 2015 to 2021.
 <div class="flourish-embed flourish-chart" data-src="visualisation/12598315"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-## 
+## Huge changes of Debt-to GDP of different countries
+<div class="flourish-embed flourish-scatter" data-src="visualisation/12598729"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
