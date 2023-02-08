@@ -1,6 +1,6 @@
 # Assignment 3 & 4 Critique by Design
 ## Original data visualization
-https://www.multifamilyexecutive.com/property-management/demographics/the-nations-most-gentrified-neighborhoods_o
+https://www.multifamilyexecutive.com/property-management/demographics/the-nations-most-gentrified-neighborhoods_o   <br />
 I suppose this is a data visualization for people who want to buy new houses or who have plans to relocate. But it could also for people who want to learn about the housing market (it was published in a real estate news magazine). I think it is effective because it lists all important information on the graph, and the purpose of this graph is to show the drastic change of home values. Normally people should have known the zip code of the places they wish to move to, so they probably also know the context and environment of the specific zip code.
 
 The first thing I noticed is the green bars, then the title, orange lines, and the blue bars. I had a sense that those bars represented home values from different years. But I would not know the orange line is a percentage change through the years if I hadn’t checked the label at the bottom. It has two y-axes, which I’m not very familiar with. 
