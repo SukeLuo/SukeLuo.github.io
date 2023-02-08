@@ -31,6 +31,10 @@ My participants are all from CMU and they are in their 20's. I adopted the seed 
 - Is there anything you would change or do differently?
 
 Here's the feedback I got from them:
+"It might be hard to audience to match the zip code back to specific places"; "but the point of this graph is zip code".
+"Maybe you could try to combine those two graphs together again in a more concise way?"
+"What about omit the states, keep only the zip code?"
+"Should you try Scatter Plot for the percentage change? It's more intuitive"
 
 ![](/sketch2.jpg)
 
