@@ -18,6 +18,19 @@ Based on the critique above, I redesign the visualization as below:
 In this sketch, I put different data into two separate graphs, so they have clearer labels on the y-axis. I change the color of home value from 2000 into grey, since I want to highlight the drastical home value increase in 2016. My redesign version have clean backgrounds now after I remove some grids line. The different data would not interfere with each other since their labels of the y-axis are not in the same unit. The original data visualization mixed the value and percentage together. I think it is a little bit confusing and mislead. So I  change the titles for both graph, one focus on numbers of home value, another focus on the percentage changes. I think this change will make the audience feel that the graph is clean and the contents are clear and intuitive.
 
 ## 3. Test the Solution
+My participants are all from CMU and they are in their 20's. I adopted the seed questions from assignment requirement:
+
+- Can you tell me what you think this is?
+
+- Can you describe to me what this is telling you?
+
+- Is there anything you find surprising or confusing?
+
+- Who do you think is the intended audience for this?
+
+- Is there anything you would change or do differently?
+
+Here's the feedback I got from them:
 
 ![](/sketch2.jpg)
 
