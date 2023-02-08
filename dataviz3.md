@@ -12,10 +12,12 @@ If I were doing the redesign, I would try to separate two data, see the result, 
 
 ## 2. Sketch
 Based on the critique above, I redesign the visualization as below:
+
 ![](/sketch1.jpg)
-In this sketch, I put 
+In this sketch, I put two different data into separate graph, 
 
 ## 3. Test the Solution
+
 ![](/sketch2.jpg)
 
 ## 4. Revised Data Visualization
