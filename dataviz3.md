@@ -20,4 +20,5 @@ In this sketch, I put two different data into separate graph,
 
 ![](/sketch2.jpg)
 
+
 ## 4. Revised Data Visualization
