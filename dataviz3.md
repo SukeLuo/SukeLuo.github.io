@@ -32,9 +32,13 @@ My participants are all from CMU and they are in their 20's. I adopted the seed 
 
 Here's the feedback I got from them:
 "It might be hard to audience to match the zip code back to specific places"; "but the point of this graph is zip code".
+
 "Maybe you could try to combine those two graphs together again in a more concise way?"
+
 "What about omit the states, keep only the zip code?"
+
 "It is obvious to me what you are trying to convey."
+
 "Should you try Scatter Plot for the percentage change? It's more intuitive"
 
 So below is my attempt in Scatter Plot:
