@@ -22,3 +22,6 @@ In this sketch, I put two different data into separate graph,
 
 
 ## 4. Revised Data Visualization
+<div class="flourish-embed flourish-chart" data-src="visualisation/12682186"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/12682199"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
