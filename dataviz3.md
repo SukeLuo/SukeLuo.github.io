@@ -14,7 +14,8 @@ If I were doing the redesign, I would try to separate two data, see the result, 
 Based on the critique above, I redesign the visualization as below:
 
 ![](/sketch1.jpg)
-In this sketch, I put two different data into separate graph, 
+
+In this sketch, I put different data into two separate graphs, so they have clearer labels on the y-axis. I change the color of home value from 2000 into grey, since I want to highlight the drastical home value increase in 2016. My redesign version have clean backgrounds now after I remove some grids line. The different data would not interfere with each other since their labels of the y-axis are not in the same unit. I also change the titles for both graph, one focus on numbers of home value, another focus on the percentage changes.
 
 ## 3. Test the Solution
 
