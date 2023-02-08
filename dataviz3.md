@@ -34,10 +34,14 @@ Here's the feedback I got from them:
 "It might be hard to audience to match the zip code back to specific places"; "but the point of this graph is zip code".
 "Maybe you could try to combine those two graphs together again in a more concise way?"
 "What about omit the states, keep only the zip code?"
+"It is obvious to me what you are trying to convey."
 "Should you try Scatter Plot for the percentage change? It's more intuitive"
+
+So below is my attempt in Scatter Plot:
 
 ![](/sketch2.jpg)
 
+I think it is fine if I only wanted to focus on percentage change. But I want to show the value change and percentage change together, I think a line chart is better. 
 
 ## 4. Revised Data Visualization
 <div class="flourish-embed flourish-chart" data-src="visualisation/12682186"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
