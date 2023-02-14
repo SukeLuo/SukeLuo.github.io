@@ -25,4 +25,4 @@ Hi! My name is Linyue Luo, and you can call me Suke(as Su-ki). I'm currently a s
 [Top 10 ZIP Home Value Change (2000-2016)](/dataviz3.md)
 
 ## Final project
-### [Final Project Part One](/FinalProjectPart1.md)
+### [Final Project Part One](/final_project_part1.md)
