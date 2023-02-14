@@ -22,9 +22,13 @@ Traditionally, fungi are also seen as plants. By fungi, we mean fungi that are v
 
 3. Mushroom Introduction
 
+Mushrooms are sacred to the Yunnan people, referring to the pure wild mushrooms that are nurtured by nature, absorbing the aura of heaven and earth and taking the essence of the sun and moon. Moreover, in Yunnan, "mushroom" has a special pronunciation, which sounds very cute and reveals the simple love of mushrooms in the region.
+
+(Series of images of different edible wild mushrooms)
 
 
 4. Mushroom Poisoning
+
 
 
 
