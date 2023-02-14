@@ -29,7 +29,7 @@ Mushrooms are sacred to the Yunnan people, referring to the pure wild mushrooms 
 
 4. Mushroom Poisoning
 
-
+Wild mushroom poisoning incidents occur from time to time throughout the country, but the highest rates occur in southwest and central China. Poisoning incidents are distinctly seasonal, with the high incidence season ranging from summer to autumn each year.
 
 
 
