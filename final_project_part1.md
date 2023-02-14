@@ -44,3 +44,9 @@ https://baijiahao.baidu.com/s?id=1740466669343836619&wfr=spider&for=pc
 
 Data of Yunnan Poisoning Cases
 https://www.sohu.com/a/412863752_260616
+
+Plant diversity in Yunnan province
+
+Analysis on wild mushroom poisoning in Yunnan province from 2011 to 2017
+
+Vegetation Diversity of Yunnan
