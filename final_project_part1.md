@@ -4,12 +4,16 @@
 
 ### Summary
 
-This is a story about Mushroom in Yunnan Province, which has the most plant diversity in China, is also known as "China's Kingdom of Plants". As a matter of result, it also has huge amounnt of fungus. 
+This is a story about Magical Mushroom in Yunnan Province, which has the most plant diversity in China, is also known as "China's Kingdom of Plants". Everything is due to the large number of fungal plants in Yunnan, including an extremely high number of edible wild mushrooms. This has led to Yunnan people becoming experts in the use of wild mushrooms, but it has also led to several incidents of wild mushroom poisoning. The purpose of this project is to make people aware of the types of wild mushrooms available for use in Yunnan, to avoid accidental consumption of toxic mushrooms, to learn how to cook them, and what to do in case of poisoning.
+
+In this project, I will use official published data for visualization and also cite external images for illustration.
 
 ### Project Structure
 1. Plant Diversity, Yunnan
+Yunnan is located in the southwest of China, with a unique dry warm winter and wet cool summer in the low latitude plateau monsoon climate. It is one of the hotspots of biodiversity in China and even in the world, and is the richest biodiversity region in the world at the same latitude. The plant species account for more than half of the plant species in China.
 
-2. Fungus Genre, Yunnan
+2. Fungus Diversity, Yunnan
+
 
 3. Mushroom Introduction
 
