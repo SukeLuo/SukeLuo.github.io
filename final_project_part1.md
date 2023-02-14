@@ -14,10 +14,14 @@ In this project, I will use official published data for visualization and also c
 
 Yunnan is located in the southwest of China, with a unique dry warm winter and wet cool summer in the low latitude plateau monsoon climate. It is one of the hotspots of biodiversity in China and even in the world, and is the richest biodiversity region in the world at the same latitude. The plant species account for more than half of the plant species in China.
 
+![](/1.jpg)
+
 
 2. Fungus Diversity, Yunnan
 
 Traditionally, fungi are also seen as plants. By fungi, we mean fungi that are visible to the naked eye and can be picked with bare hands. Whenever the rainy season comes, the farmers' markets in Kunming (Capital of Yunnan Province) have a large number of wild edible mushrooms on the market, and There are a lot of restaurants with wild mushrooms as the main dish. Wild mushrooms are not only delicious, but also rich in vitamins, calcium, phosphorus, potassium, iron and other trace elements, as well as a variety of amino acids that cannot be synthesized by the human body.
+
+![](/2.jpg)
 
 
 3. Mushroom Introduction
@@ -31,6 +35,7 @@ Mushrooms are sacred to the Yunnan people, referring to the pure wild mushrooms 
 
 Wild mushroom poisoning incidents occur from time to time throughout the country, but the highest rates occur in southwest and central China. Poisoning incidents are distinctly seasonal, with the high incidence season ranging from summer to autumn each year.
 
+![](/3.jpg)
 
 
 
