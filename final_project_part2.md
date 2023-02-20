@@ -14,16 +14,13 @@ This is a story about Magical Mushroom in Yunnan Province, which has the most pl
 ## Interview script
 > List the goals from your research, and the questions you intend to ask. 
 
-Text here!
-
-| Goal | Questions to Ask |
-|------|------------------|
-|      |                  |
-|      |                  |
-|      |                  |
+|                              Goal                              |                                     Questions to Ask                                            |
+|People get to know basic knowledge of wild mushrooms more.      |Do you think you know what wild mushrooms is?                                                    |
+|People are aware of the toxicity of some wild mushrooms.        |Can the poisoning chart give a sense of the serious harm caused by eating toxic wild mushrooms or                                                                       cooking them incorrectly?                                                                        |
+|People can learn how to identify toxic wild mushrooms.          |Do you think putting pictures of toixc wild mushrooms can help people identify them?             |
+|People can learn the correct cooking methods for wild mushrooms.|How do you think it is better to describe the cooking method other than the written description? |
 
 
-Text here!
 
 ## Interview findings
 > Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
@@ -79,3 +76,8 @@ Plant diversity in Yunnan province
 Analysis on wild mushroom poisoning in Yunnan province from 2011 to 2017
 
 Vegetation Diversity of Yunnan
+
+Yunnan Weather, Precipitation
+https://tcktcktck.org/china/yunnan#:~:text=Yunnan%20typically%20receives%20about%2060.49,%25%20of%20the%20time)%20annually.
+
+
