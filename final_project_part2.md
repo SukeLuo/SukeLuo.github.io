@@ -7,8 +7,9 @@ This is a story about Magical Mushroom in Yunnan Province, which has the most pl
 
 ## Target audience
 > Include your approach to identifying representative individuals, and who you hope to reach with your story. 
+1. Foreigners who do not know the culture of "wild mushroom"；
+2. Local mushroom eaters who need to improve their ability to identify toxic wild mushrooms。
 
-Text here!
 
 ## Interview script
 > List the goals from your research, and the questions you intend to ask. 
