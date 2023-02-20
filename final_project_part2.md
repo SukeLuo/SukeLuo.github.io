@@ -1,9 +1,7 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](/dataviz2.md) | [critique by design](/dataviz3.md) | [final project I](/final_project_part1.md) | [final project II](/final_project_part3.md) | [final project III](final-project-part-three) |
 
 # Wireframes / storyboards
-> Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing / storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of your story you want to share with your reader. Note: you can build these elements out direclty in Shorthand this week if you wish.
-
-Text here!
+This is a story about Magical Mushroom in Yunnan Province, which has the most plant diversity in China, is also known as "China's Kingdom of Plants". Everything is due to the large number of fungal plants in Yunnan, including an extremely high number of edible wild mushrooms. This has led to Yunnan people becoming experts in the use of wild mushrooms, but it has also led to several incidents of wild mushroom poisoning. The purpose of this project is to make people aware of the types of wild mushrooms available for use in Yunnan, to avoid accidental consumption of toxic mushrooms, to learn how to cook them, and what to do in case of poisoning.
 
 # User research 
 
