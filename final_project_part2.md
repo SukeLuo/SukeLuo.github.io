@@ -25,13 +25,11 @@ This is a story about Magical Mushroom in Yunnan Province, which has the most pl
 
 
 ## Interview findings
-> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
 
-Text here!
 
 | Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
 |-------------------------|--------------------------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |
+| Do you think you know what wild mushrooms is? | Yes, the introduction and context are clear.|Yes             |Yes             |
 |                         |                                |             |             |
 |                         |                                |             |             |
 
