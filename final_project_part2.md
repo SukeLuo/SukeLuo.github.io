@@ -29,9 +29,8 @@ This is a story about Magical Mushroom in Yunnan Province, which has the most pl
 
 | Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
 |-------------------------|--------------------------------|-------------|-------------|
-| Do you think you know what wild mushrooms is? | Yes, the introduction and context are clear.|Yes             |Yes             |
-|                         |                                |             |             |
-|                         |                                |             |             |
+|Do you think you know what wild mushrooms is? | Yes, the introduction and context are clear.|Yes             |Yes             |
+|Can the poisoning chart give a sense of the serious harm caused by eating toxic wild mushrooms or cooking them incorrectly?|Yes|Yes, this chart is astonishing|       |Yes. But I think you should explain why there is a drop after 2011|                                |             |             |
 
 
 # Identified changes for Part III
