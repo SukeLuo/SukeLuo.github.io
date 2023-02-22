@@ -3,6 +3,8 @@
 # Wireframes / storyboards
 This is a story about Magical Mushroom in Yunnan Province, which has the most plant diversity in China, is also known as "China's Kingdom of Plants". Everything is due to the large number of fungal plants in Yunnan, including an extremely high number of edible wild mushrooms. This has led to Yunnan people becoming experts in the use of wild mushrooms, but it has also led to several incidents of wild mushroom poisoning. The purpose of this project is to make people aware of the types of wild mushrooms available for use in Yunnan, to avoid accidental consumption of toxic mushrooms, to learn how to cook them, and what to do in case of poisoning.
 
+# [Shorthand](https://linyue-final-project.shorthandstories.com/magical-jier/)
+
 # User research 
 
 ## Target audience
