@@ -3,7 +3,6 @@
 # Wireframes / storyboards
 This is a story about Magical Mushroom in Yunnan Province, which has the most plant diversity in China, is also known as "China's Kingdom of Plants". Everything is due to the large number of fungal plants in Yunnan, including an extremely high number of edible wild mushrooms. This has led to Yunnan people becoming experts in the use of wild mushrooms, but it has also led to several incidents of wild mushroom poisoning. The purpose of this project is to make people aware of the types of wild mushrooms available for use in Yunnan, to avoid accidental consumption of toxic mushrooms, to learn how to cook them, and what to do in case of poisoning.
 
-## [Shorthand](https://linyue-final-project.shorthandstories.com/magical-jier/)
 
 # User research 
 
@@ -36,26 +35,22 @@ This is a story about Magical Mushroom in Yunnan Province, which has the most pl
 
 
 # Identified changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
+> Refine my chart. Some details are need to be modified for the consistency, like white gap on a black back ground, and also the grid line width.
+> 
 
-Text here!
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
+| Pay more attention to details of charts |Refine my chart. Some details are need to be modified for the consistency, like white gap on a black back ground, and also the grid line width. |
+| Photos are not that beautiful |Use photoshop to edit photos. Some photos I inserted are not compatitable with the current template, need to be edited|
+| Find a way to present the story within 60s|I have too much contents now, I might delete some part, and focus on the mushroom and poisoning part.|
+| Tell everyone why you choose this interesting topic| I am a mushroom eater, and Yunnan Province is my hometown. So I might add this into my presentation|
 
-> ...include any final thoughts you have here. 
+> Final thoughts: I put too much time on the shorthand website and data visualization, I haven't contribute enough to my writeup part, and also my github portfolio. I should use text as an outline helping with my website structure.
 
-Text here!
-
-# Moodboards / personas
-> If you did this optional part, include details here.  Otherwise remove this section
 
 I created a Shorthand website for displaying my progress.
+### [Shorthand](https://linyue-final-project.shorthandstories.com/magical-jier/)
 
 # Data Viz
 
