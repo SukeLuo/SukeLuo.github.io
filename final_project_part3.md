@@ -2,9 +2,9 @@
 
 # The final data story
 > Include a link to your final data story on Shorthand, Esri StoryMaps, etc. here. 
-> (https://linyue-final-project.shorthandstories.com/magical-jier/index.html/)
 
-Text here!
+[Storyboard](https://linyue-final-project.shorthandstories.com/magical-jier/index.html/)
+
 
 # Changes made since Part II
 > Include few paragraphs that reflects on changes you made since the completion of Part II. 
