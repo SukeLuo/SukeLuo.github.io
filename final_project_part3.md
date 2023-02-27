@@ -2,6 +2,7 @@
 
 # The final data story
 > Include a link to your final data story on Shorthand, Esri StoryMaps, etc. here. 
+> (https://linyue-final-project.shorthandstories.com/magical-jier/index.html/)
 
 Text here!
 
