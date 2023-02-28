@@ -1,5 +1,7 @@
 # Final Project Part 1 -- Magical Mushrooms
 
+| [home page](https://sukeluo.github.io/) | [visualizing debt](/dataviz2.md) | [critique by design](/dataviz3.md) | [final project I](/final_project_part1.md) | [final project II](/final_project_part2.md) | [final project III](/final_project_part3.md) |
+
 ## Outline
 
 ### Summary
