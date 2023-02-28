@@ -28,3 +28,5 @@ Hi! My name is Linyue Luo, and you can call me Suke(as Su-ki). I'm currently a s
 ### [Final Project Part One](/final_project_part1.md)
 
 ### [Final Project Part Two](/final_project_part2.md)
+
+### [Final Project Part Two](/final_project_part3.md)
