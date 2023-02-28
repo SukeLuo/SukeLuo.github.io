@@ -1,4 +1,4 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](/dataviz2.md) | [critique by design](/dataviz3.md) | [final project I](/final_project_part1.md) | [final project II](/final_project_part2.md) | [final project III](/final_project_part3.md) |
+| [home page](https://sukeluo.github.io/) | [visualizing debt](/dataviz2.md) | [critique by design](/dataviz3.md) | [final project I](/final_project_part1.md) | [final project II](/final_project_part2.md) | [final project III](/final_project_part3.md) |
 
 # The final data story
 > Include a link to your final data story on Shorthand, Esri StoryMaps, etc. here. 
