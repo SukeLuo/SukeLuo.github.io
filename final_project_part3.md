@@ -17,7 +17,7 @@ Highlight important information in the storytelling.
 ## The audience
 > Talk about who you identified as the audience for your final data story.  Include any other information you've used that helped you narrow the focus (e.g. insights from your interviews, personas, etc.).  Note any specific adjustments you made to your final project to make it work for your audience.
 
-My audience are the local mushroom eaters of Yunnan and foreigners who want to eat wild mushrooms. I'm trying to make people aware of the types of edible wild mushrooms in Yunnan, to avoid accidental consumption of toxic mushrooms, to learn what to do in case of poisoning. For foreigners, they have all the important information they need to know about wild mushrooms here. 
+My audience are the foreigners who want to try wild mushrooms and local mushroom eaters of Yunnan. I'm trying to give foreigners a basic introduction to Yunnan wild mushrooms, and teach them how to enjoy the taste while paying attention to their own safety. For local people, I’m trying to make people aware of the types of edible wild mushrooms in Yunnan, to avoid accidental consumption of toxic mushrooms, to learn what to do in case of poisoning.
 
 
 ## Final design decisions
