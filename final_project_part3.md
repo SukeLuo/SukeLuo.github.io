@@ -6,9 +6,7 @@
 
 # Changes made since Part II
 > Include few paragraphs that reflects on changes you made since the completion of Part II.
-> 
-Changed the position of the two data visulization, the story is more logical.
-Highlight important information in the storytelling.
+> I edit almost every image of this story in photoshop, because the way Shorthand template handles images is a bit wierd. Some of my graphs are not displayed completely and neatly as I expected when I tried to insert a link of my Tableau Public. So I could only export a jpeg and insert an image instead, that makes the whole image way too big to scroll down the page swiftly. I also added a graph about reported mushroom poisoning cases in every province from 2010 to 2020. But I do not like the color system of this graph. I might try another way of presenting this data in future time. I also changed the position of climate data to make the story more logical. Moreover, I highlighted important information in the storytelling.
 
 
 
