@@ -43,8 +43,8 @@
 
 # Final thoughts
 
-I have completed my story on Yunnan's wild mushrooms, but I am concerned that the information presented might be insufficient or uninteresting to people who are already familiar with the topic. During my presentation, I noticed that the audience was engaged because the topic was new to them.
+> I have completed my story on Yunnan's wild mushrooms, but I am concerned that the information presented might be insufficient or uninteresting to people who are already familiar with the topic. During my presentation, I noticed that the audience was engaged because the topic was new to them.
 
-To make the story more engaging for a wider audience, I am considering adding a section called "How to pretend you are living in Yunnan? Where to get similar mushrooms?" In this section, I can introduce some wild mushrooms that I have seen in American supermarkets and compare them to their Yunnanese counterparts. I believe that this could make the story more fun and relatable for a wider audience.
+> To make the story more engaging for a wider audience, I am considering adding a section called "How to pretend you are living in Yunnan? Where to get similar mushrooms?" In this section, I can introduce some wild mushrooms that I have seen in American supermarkets and compare them to their Yunnanese counterparts. I believe that this could make the story more fun and relatable for a wider audience.
 
-I am excited about the prospect of expanding my story and making it more accessible to a wider audience. I believe that by doing so, I can promote greater awareness and appreciation of the unique and diverse wild mushrooms of Yunnan.
+> I am excited about the prospect of expanding my story and making it more accessible to a wider audience. I believe that by doing so, I can promote greater awareness and appreciation of the unique and diverse wild mushrooms of Yunnan.
