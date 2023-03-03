@@ -26,7 +26,12 @@
 
 
 ## Final design decisions
-> 
+
+> While conducting research for my project on wild mushrooms in Yunnan, I faced challenges in finding reliable data sources. Most of the available information related to wild mushrooms in Yunnan were reports of poisoning cases or information about toxic species that were difficult to understand because they were listed by their Latin names. I also tried to find information about the potential hallucinogenic effects of poisonous mushrooms, but I could not find any official or credible sources. Instead, I found information on social media platforms such as Weibo and Zhihu, which was difficult to synthesize.
+
+> Given the lack of reliable information, I focused on providing readers with a basic understanding of Yunnan's wild mushrooms. I also attempted to make the information easy to recall by matching the color codes of the graphs with the background image and using the same color for highlighting. By doing this, I aimed to provide a consistent and visually engaging reading experience.
+
+> Despite the challenges I faced during my research, I remain committed to educating readers about the unique and diverse wild mushrooms of Yunnan. I will continue to explore new sources of information and improve my presentation of the available data.
 
 
 ## References
