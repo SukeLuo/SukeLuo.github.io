@@ -27,6 +27,11 @@ This is an assignment about how to do the critique properly. You can click [here
 [Top 10 ZIP Home Value Change (2000-2016)](/dataviz3.md)
 
 ## Final project
+
+My final project is an introduction to wild mushroom in Yunnan Province, China. If you also love to eat mushrooms, you'd better not miss my project!
+
+[Click for full story of wild mushroom:-p](https://linyue-final-project.shorthandstories.com/magical-jier/index.html/)
+
 ### [Final Project Part One](/final_project_part1.md)
 
 ### [Final Project Part Two](/final_project_part2.md)
