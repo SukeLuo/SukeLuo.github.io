@@ -1,7 +1,7 @@
 | [home page](https://sukeluo.github.io/) | [visualizing debt](/dataviz2.md) | [critique by design](/dataviz3.md) | [final project I](/final_project_part1.md) | [final project II](/final_project_part2.md) | [final project III](/final_project_part3.md) |
 
 # The final data story
-> [Click for my final Story!](https://linyue-final-project.shorthandstories.com/magical-jier/index.html)
+> [Click to view my Final Data Story!](https://linyue-final-project.shorthandstories.com/magical-jier/index.html)
 
 
 # Changes made since Part II
