@@ -18,7 +18,7 @@ Hi! My name is Linyue Luo, and you can call me Suke(as Su-ki). I'm currently a s
 
 ## Assignment 1: Design Visualization Critique
 
-This is an assignment about how to do the critique properly. You can click [here](/https://docs.google.com/spreadsheets/d/1tjUjSAL6dG2lJLaouDUY7-N8gXsR4OQ2T7eh9rYL5ps/edit#gid=747157950) for my critique form.
+This is an assignment about how to do the critique properly. You can click [here](https://docs.google.com/spreadsheets/d/1tjUjSAL6dG2lJLaouDUY7-N8gXsR4OQ2T7eh9rYL5ps/edit#gid=747157950/) for my critique form.
 
 ## Assignment 2 : Visualizing government debt
 [Visualizing government debt](/dataviz2.md)
