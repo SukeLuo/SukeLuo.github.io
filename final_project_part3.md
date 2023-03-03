@@ -35,11 +35,16 @@
 
 
 ## References
-> You should have already included detailed references on your Shorthand story - if so, you can probably skip this section.  Use this section to capture any additional special notes or information necessary.  If you do this, you probably want to include a link from Shorthand to this page. Make sure to double-check that you aren't using copyright material and that you have added / updated any citations or other content that you used to create your data story.  Make sure you have cited external sources correctly. 
+
+> I have all my references in my storyboard. 
 
 [Storyboard](https://linyue-final-project.shorthandstories.com/magical-jier/index.html)
 
-# Final thoughts
-> You can summarize any final thoughts / reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section. 
 
-Text here!
+# Final thoughts
+
+I have completed my story on Yunnan's wild mushrooms, but I am concerned that the information presented might be insufficient or uninteresting to people who are already familiar with the topic. During my presentation, I noticed that the audience was engaged because the topic was new to them.
+
+To make the story more engaging for a wider audience, I am considering adding a section called "How to pretend you are living in Yunnan? Where to get similar mushrooms?" In this section, I can introduce some wild mushrooms that I have seen in American supermarkets and compare them to their Yunnanese counterparts. I believe that this could make the story more fun and relatable for a wider audience.
+
+I am excited about the prospect of expanding my story and making it more accessible to a wider audience. I believe that by doing so, I can promote greater awareness and appreciation of the unique and diverse wild mushrooms of Yunnan.
