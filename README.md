@@ -30,7 +30,7 @@ This is an assignment about how to do the critique properly. You can click [here
 
 My final project is an introduction to wild mushroom in Yunnan Province, China. If you also love to eat mushrooms, you'd better not miss my project!
 
-[Click for full story of wild mushroom:-p](https://linyue-final-project.shorthandstories.com/magical-jier/index.html/)
+Click for [full story](https://linyue-final-project.shorthandstories.com/magical-jier/index.html) of wild mushroom:-p
 
 ### [Final Project Part One](/final_project_part1.md)
 
